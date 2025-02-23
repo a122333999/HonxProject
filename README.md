@@ -1,2 +1,2 @@
-# HonxMind
+# HonxProject
 Core
